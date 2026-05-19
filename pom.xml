@@ -5,6 +5,9 @@
   <artifactId>Wild_Tour</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+    <maven.compiler.release>17</maven.compiler.release>
+  </properties>
   <name>Wild_Tour Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
